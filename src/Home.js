@@ -10,34 +10,13 @@ function Home() {
 
         <div className="home__row">
           <Product
-            title="The learn startup"
+            title="lorem20 is actually the leng s actually the leng of the string i am s actually the leng of the string i am of the string i am testing The learn startup"
             price="30.32"
             image="/assets/lean_startup.jpeg"
             rating={5}
           />
           <Product
-            title="The learn startup"
-            price="30.32"
-            image="/assets/lean_startup.jpeg"
-            rating={5}
-          />
-        </div>
-
-        <div className="home__row">
-          <Product
-            title="The learn startup"
-            price="30.32"
-            image="/assets/lean_startup.jpeg"
-            rating={5}
-          />
-          <Product
-            title="The learn startup"
-            price="30.32"
-            image="/assets/lean_startup.jpeg"
-            rating={5}
-          />
-          <Product
-            title="The learn startup"
+            title="lorem20 is actually the leng of the string i am testing Ths actually the leng of the string i am s actually the leng of the string i am e learn startup"
             price="30.32"
             image="/assets/lean_startup.jpeg"
             rating={5}
@@ -46,7 +25,28 @@ function Home() {
 
         <div className="home__row">
           <Product
-            title="The learn startup"
+            title="lorem20 is actually the leng of the string i am s actually the leng of the string i am testing The learn startup"
+            price="30.32"
+            image="/assets/lean_startup.jpeg"
+            rating={5}
+          />
+          <Product
+            title="lorem20 is actually the leng of s actually the leng of the string i am the string i am testing The learn startup"
+            price="30.32"
+            image="/assets/lean_startup.jpeg"
+            rating={5}
+          />
+          <Product
+            title="lorem20 is actually the leng of the string i am testing The learn startup"
+            price="30.32"
+            image="/assets/lean_startup.jpeg"
+            rating={5}
+          />
+        </div>
+
+        <div className="home__row">
+          <Product
+            title="lorem20 is actually the leng of the string i am testing The learn startup"
             price="30.32"
             image="/assets/lean_startup.jpeg"
             rating={5}
