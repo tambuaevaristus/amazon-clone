@@ -10,14 +10,16 @@ function Home() {
 
         <div className="home__row">
           <Product
+            id={1}
             title="lorem20 is actually the leng s actually the leng of the string i am s actually the leng of the string i am of the string i am testing The learn startup"
-            price="30.32"
+            price={30.32}
             image="/assets/lean_startup.jpeg"
             rating={5}
           />
           <Product
+            id={2}
             title="lorem20 is actually the leng of the string i am testing Ths actually the leng of the string i am s actually the leng of the string i am e learn startup"
-            price="30.32"
+            price={30.32}
             image="/assets/lean_startup.jpeg"
             rating={5}
           />
@@ -25,20 +27,23 @@ function Home() {
 
         <div className="home__row">
           <Product
+            id={3}
             title="lorem20 is actually the leng of the string i am s actually the leng of the string i am testing The learn startup"
-            price="30.32"
+            price={30.32}
             image="/assets/lean_startup.jpeg"
             rating={5}
           />
           <Product
+            id={4}
             title="lorem20 is actually the leng of s actually the leng of the string i am the string i am testing The learn startup"
-            price="30.32"
+            price={30.32}
             image="/assets/lean_startup.jpeg"
             rating={5}
           />
           <Product
+            id={5}
             title="lorem20 is actually the leng of the string i am testing The learn startup"
-            price="30.32"
+            price={30.32}
             image="/assets/lean_startup.jpeg"
             rating={5}
           />
@@ -46,8 +51,9 @@ function Home() {
 
         <div className="home__row">
           <Product
+            id={6}
             title="lorem20 is actually the leng of the string i am testing The learn startup"
-            price="30.32"
+            price={30.32}
             image="/assets/lean_startup.jpeg"
             rating={5}
           />
