@@ -34,8 +34,11 @@ function Header() {
       </Link>
 
       <div className="header__search">
-        <input className="header__searchInput" type="text" />
-        <SearchIcon className="header__searchIcon" />
+        <input className="header__searchInput py-3" type="text" />
+        <span className="p-1 bg-warning">
+        <SearchIcon className="" />
+
+        </span>
       </div>
 
       <div className="header__nav">

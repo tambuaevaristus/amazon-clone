@@ -30,7 +30,7 @@
 
 .product__info{
     margin-bottom: 15px;
-    height: 100px;
+    min-height: 150px;
 }
 
 .product__price{
